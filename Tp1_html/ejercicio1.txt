@@ -24,7 +24,8 @@ HTML (HyperText Markup Language) es el lenguaje estándar para crear y estructur
     - **Frameset**: Usado para documentos que contienen marcos (frames).  
 
 5. **Qué son los metadatos y cómo se especifican en HTML?**  
-    Los metadatos son información sobre el documento, como su autor, descripción, palabras clave, etc. Se especifican en la sección `<head>` del documento HTML usando etiquetas como `<meta>`. Ejemplo:  
+    Los metadatos son información sobre el documento, como su autor, descripción, palabras clave, etc. Se especifican en la sección `<head>` del documento HTML usando etiquetas como `<meta>`. 
+    Ejemplo:  
     ```html
     <meta charset="UTF-8">
     <meta name="description" content="Ejemplo de metadatos en HTML">
