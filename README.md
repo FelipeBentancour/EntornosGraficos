@@ -4,7 +4,18 @@ Repositorio con el desarrollo de la materia.
 # Practicas
 
 * Practica N°1:
-  * [Drive con ejercicios 1, 2 y 3](https://docs.google.com/document/d/1tdZ_eS-bLVnEKiRC4H4AtuYsmueR1cNJrJCU1IFi4UA/edit?tab=t.0)
+  * [Ejercicio 1](https://drive.google.com/file/d/1iZlWl96jVPObEBVrllmy8fHrJFTsUIiy/view?usp=drive_link)
+<<<<<<< HEAD
+  * [Ejercicio 2](https://drive.google.com/file/d/1ULWLwlm0k-wY4BAU_QMj1itiN2lfVz2y/view?usp=drive_link)
+  * [Ejercicio 3]()
   * [Ejercicio 4](https://github.com/FelipeBentancour/EntornosGraficos/blob/main/Practica1_HTML/ejercicio4.html)
-  * 
-  
+  * [Ejercicio 5]()
+=======
+  * [Ejercicio 4](https://github.com/FelipeBentancour/EntornosGraficos/blob/main/Practica1_HTML/ejercicio4.html)
+  * [Ejercicio 5](https://github.com/FelipeBentancour/EntornosGraficos/blob/main/Practica1_HTML/ejercicio4.html)
+>>>>>>> origin/main
+
+* Ppp
+
+
+
