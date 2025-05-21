@@ -1,7 +1,20 @@
+/* Aplica color verde a todo el texto de todos los elementos */
 * {color:green; }
+
+/* Establece el color gris para los enlaces no visitados */
 a:link {color:gray }
+
+/* Establece el color azul para los enlaces visitados */
 a:visited{color:blue }
+
+/* Cambia el color a fucsia cuando el mouse pasa sobre el enlace */
 a:hover {color:fuchsia }
+
+/* Cambia el color a rojo cuando el enlace está activo (clickeado) */
 a:active {color:red }
+
+/* Define la fuente Arial o Helvetica, tamaño 10px y color negro para los párrafos */
 p {font-family: arial,helvetica;font-size: 10px;color:black; }
+
+/* Define tamaño de fuente 14px y negrita para los elementos con clase "contenido" */
 .contenido{font-size: 14px;font-weight: bold; }
