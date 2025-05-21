@@ -1,5 +1,5 @@
 # Entornos graficos
-Repositorio con el desarrollo de la materia.
+Repositorio con el desarrollo practico de la materia.
 
 # Practicas
 
@@ -18,7 +18,6 @@ Repositorio con el desarrollo de la materia.
   * [Ejercicio 5](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica2_CSS/ejercicio5)
   * [Ejercicio 6](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica2_CSS/Ejercicio6)
 
-
-
-
+* Practica Bootstrap:
+  * [Ejercicio 1]()
 
