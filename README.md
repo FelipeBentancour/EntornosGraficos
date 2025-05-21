@@ -10,6 +10,9 @@ Repositorio con el desarrollo de la materia.
   * [Ejercicio 4](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica1_HTML/Ejercicio4)
   * [Ejercicio 5](https://github.com/FelipeBentancour/EntornosGraficos/blob/main/Practica1_HTML/ejercicio5)
 
+* Practica CSS:
+  * [Ejercicio 1](https://drive.google.com/file/d/1RGSE0oOTZ-wN6XzgSpkLwLn8crC9xzjZ/view?usp=drive_link)
+  * [Ejercicio 2]()
 
 
 
