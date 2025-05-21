@@ -15,6 +15,9 @@ Repositorio con el desarrollo de la materia.
   * [Ejercicio 2](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica2_CSS/Ejercicio2)
   * [Ejercicio 3](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica2_CSS/ejercicio3)
   * [Ejercicio 4](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica2_CSS/ejercicio4)
+  * [Ejercicio 5](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica2_CSS/ejercicio5)
+  * [Ejercicio 6](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica2_CSS/ejercicio6)
+
 
 
 
