@@ -1,0 +1,15 @@
+/* Aplica color rojo al texto de los párrafos con clase "quitar" */
+p.quitar {
+    color: red;
+}
+
+/* Aplica tamaño de fuente de 8px a cualquier elemento con clase "desarrollo" */
+*.desarrollo {
+    font-size: 8px;
+}
+
+/* Aplica tamaño de fuente de 20px a cualquier elemento con clase "importante" */
+.importante {
+    font-size: 20px;
+}
+
