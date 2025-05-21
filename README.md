@@ -19,5 +19,8 @@ Repositorio con el desarrollo practico de la materia.
   * [Ejercicio 6](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica2_CSS/Ejercicio6)
 
 * Practica Bootstrap:
-  * [Ejercicio 1]()
+  * [Ejercicio 1](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica9_Bootstrap/Ejercicio1)
+  * [Ejercicio 2](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica9_Bootstrap/Ejercicio2)
+  * [Ejercicio 3](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica9_Bootstrap/Ejercicio3)
+
 
