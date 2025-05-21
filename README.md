@@ -12,8 +12,9 @@ Repositorio con el desarrollo de la materia.
 
 * Practica CSS:
   * [Ejercicio 1](https://drive.google.com/file/d/1RGSE0oOTZ-wN6XzgSpkLwLn8crC9xzjZ/view?usp=drive_link)
-  * [Ejercicio 2]()
-
+  * [Ejercicio 2](https://github.com/FelipeBentancour/EntornosGraficos/blob/main/Practica2_CSS/ejercicio2)
+  * [Ejercicio 3](https://github.com/FelipeBentancour/EntornosGraficos/blob/main/Practica2_CSS/ejercicio3)
+  * [Ejercicio 4](https://github.com/FelipeBentancour/EntornosGraficos/blob/main/Practica2_CSS/ejercicio4)
 
 
 
