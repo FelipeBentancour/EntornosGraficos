@@ -23,5 +23,9 @@
     }
     ?>
 </body>
+<!-- Este código muestra un formulario HTML para ingresar la edad. -->
+<!-- Cuando el usuario envía el formulario, verifica si la edad ingresada es mayor o igual a 21. -->
+<!-- Si es así, muestra "Mayor de edad"; de lo contrario, muestra "Menor de edad". -->
+<!-- Lo visualice ejecutando 'php -S localhost:8000' y luego la ruta del archivo en el navegador. -->
 
 </html>
