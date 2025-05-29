@@ -1,7 +1,7 @@
-# Entornos graficos
+# Entornos gráficos
 Repositorio con el desarrollo práctico de la materia.
 
-# Practicas
+# Prácticas
 
 * Práctica HTML:
   * [Ejercicio 1](https://drive.google.com/file/d/1iZlWl96jVPObEBVrllmy8fHrJFTsUIiy/view?usp=drive_link)
