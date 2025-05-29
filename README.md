@@ -25,14 +25,14 @@ Repositorio con el desarrollo práctico de la materia.
 
 * Práctica PHP: 
   * Variables, tipos, operadores, expresiones, estructuras de control:
-  * [Ejercicio 1](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica4_PHP/Ejercicio1)
-  * [Ejercicio 2](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica4_PHP/Ejercicio2)
-  * [Ejercicio 3](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica4_PHP/Ejercicio3)
-  * [Ejercicio 4](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica4_PHP/Ejercicio4)
-  * [Ejercicio 5](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica4_PHP/Ejercicio5)
+    * [Ejercicio 1](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica4_PHP/Ejercicio1)
+    * [Ejercicio 2](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica4_PHP/Ejercicio2)
+    * [Ejercicio 3](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica4_PHP/Ejercicio3)
+    * [Ejercicio 4](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica4_PHP/Ejercicio4)
+    * [Ejercicio 5](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica4_PHP/Ejercicio5)
   * Arrays, funciones:
-  * [Ejercicio 1](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica4_PHP/Ejercicio6)
-  * [Ejercicio 2](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica4_PHP/Ejercicio7)
-  * [Ejercicio 3](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica4_PHP/Ejercicio8)
-  * [Ejercicio 4](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica4_PHP/Ejercicio9)
+    * [Ejercicio 1](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica4_PHP/Ejercicio6)
+    * [Ejercicio 2](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica4_PHP/Ejercicio7)
+    * [Ejercicio 3](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica4_PHP/Ejercicio8)
+    * [Ejercicio 4](https://github.com/FelipeBentancour/EntornosGraficos/tree/main/Practica4_PHP/Ejercicio9)
 
