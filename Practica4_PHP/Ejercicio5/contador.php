@@ -2,13 +2,13 @@
 // Archivo para acumular el numero de visitas
 $archivo = "contador.dat";
 // Abrir el archivo para lectura
-$abrir = fopen($archivo, "r+");
+$abrir = fopen($archivo, "r");
 // Leer el contenido del archivo
 $cont = fread($abrir, filesize($archivo));
 // Cerrar el archivo
-//fclose($abrir);
+fclose($abrir);
 // Abrir nuevamente el archivo para escritura
-//$abrir = fopen($archivo, "w");
+$abrir = fopen($archivo, "w");
 // Agregar 1 visita
 $cont = $cont + 1;
 // Guardar la modificación
