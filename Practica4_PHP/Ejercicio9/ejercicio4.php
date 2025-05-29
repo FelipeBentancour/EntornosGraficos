@@ -34,4 +34,4 @@ foreach ($usuarios as $usuario) {
 // Carlos-99 es válido
 // Maria! no es válido
 // usuario_valido es válido
-// usuarioMuyLargo-1248648636546 no es válido
+// usuarioMuyLargo-1248648636546 no es válidos
